@@ -5,6 +5,5 @@ if Salary >= 30000:
         print("you qualify for your job")
     else : 
         print("experience is less than 2")
-
 else:
     print("your earn atleast 30 k  to quality")
